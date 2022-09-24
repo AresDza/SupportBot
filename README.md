@@ -1,4 +1,8 @@
 # SupportBot
+
+![IMAGE](https://user-images.githubusercontent.com/90967711/192111330-8850c0ff-f324-4ab5-b214-51c98ce8170b.png)
+
+
 Este es un bot muy sencillo de hacer y facil de hacer o desplegar, aqui abajo tendran el indice :
 
 [1. Despliegue a Heroku](#despliegue-a-heroku-)
