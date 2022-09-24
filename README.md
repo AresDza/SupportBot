@@ -1,8 +1,7 @@
 # SupportBot
 Este es un bot muy sencillo de hacer y facil de hacer o desplegar, aqui abajo tendran el indice :
 
-[1. Despliegue a Heroku](https://github.com/AresDza/SupportBot/blob/master/README.md#despliegue-a-heroku-)
-
+[1. Despliegue a Heroku](#despliegue-a-heroku-)
 [2. Funcionamiento](#funcionamiento-)
 
 
