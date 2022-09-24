@@ -1,0 +1,19 @@
+{
+  "name": "SupportBot",
+  "description": "Code por : AresDza",
+  "env": {
+    "ADMINS": {
+      "description": "Coloca el ID de tu Usuario, (Para colocar varios solo tienes que separarlos por una coma)",
+      "value": ""
+    },
+   "bot_token": {
+      "description": "Token del BOT (Se obtiene en BOT Father)",
+      "value": ""
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-python.git"
+    }
+  ]
+}
