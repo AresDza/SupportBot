@@ -36,6 +36,7 @@ Una vez hayamos Desplegado la APP :
 
 <b>3ro : </b>Debajo de Free Dynos, hay una que pone worker python3 main.py, tocamos en el Lápiz de Editar y Activamos el Dyno, pulsamos en confirmar y ya nuestro Bot estará Funcionando ....
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AresDza/SupportBot) <b>↣ Despliega directo en Heroku</b>
 
 ## Funcionamiento :
 
@@ -44,8 +45,3 @@ El funcionamiento de este ChatBot es simple pero eficiente, al iniciarce, se cre
 *Mensajes Copiados de los Admins : Esta es la mejor opcion para las respuestas a los usuarios, ya que mantienes el anonimato y pueden ser atendidos por un grupo de admins sin problemas ni confusiones.
 
 *Mensajes Reenviados de los Users : Mejor opcion para este caso, ya que ayuda al bot a obtener el ID del usuario que ha enviado la solicitud para poder enviarle sus respuestas y tambien favorece a la hora de contactar de manera privada al usuario.
-
-
-
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AresDza/SupportBot) <b>↣ Despliega directo en Heroku</b>
