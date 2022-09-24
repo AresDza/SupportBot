@@ -10,15 +10,15 @@ Este es un bot muy sencillo de hacer y facil de hacer o desplegar, aqui abajo te
 
 <b>1ro : </b>Has un BOT de Telegram :
 
-     ◓ Ve a Bot Father en Telegram y Usa /newbot
+   ◓ Ve a Bot Father en Telegram y Usa /newbot
 
-     ◓ Ponle un Nombre y después un Usuario
+   ◓ Ponle un Nombre y después un Usuario
 
-     ◓ Luego te pondrá un Mensaje con el Enlace a tu Bot y su Token
+   ◓ Luego te pondrá un Mensaje con el Enlace a tu Bot y su Token
 
-     ◓ Buscas la parte del Token y lo copias y lo guardamos para el despliegue
+   ◓ Buscas la parte del Token y lo copias y lo guardamos para el despliegue
      
-     ◓ Salimos de Telegram y Volvemos a Github
+   ◓ Salimos de Telegram y Volvemos a Github
 
 <b>2do : </b>Pulsa el Botón <b>[DEPLOY TO HEROKU]</b>.
 
