@@ -37,8 +37,8 @@ def reply2users(update,context):
 
 # TOKEN
 if __name__ == '__main__':
-    token = '5751727310:AAGdsE5pFJSMu5hfvXJhlf2FyiXa5Ow2MOM'
-    administradores = '952546654'
+    token = os.environ["TOKEN"]
+    administradores = os.environ["ADMINS"]
     bot = telegram.Bot(token=token)
     updater = Updater(token=token, use_context=True)
     dp = updater.dispatcher
