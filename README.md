@@ -28,7 +28,7 @@ Este es un bot muy sencillo de hacer y facil de hacer o desplegar, aqui abajo te
 
 <b>5to : </b>Pon el token del Bot que creamos al Principio y pulsa en <b>[Deploy App]</b>
 
-# Una vez hayamos Desplegado la APP :
+### Una vez hayamos Desplegado la APP :
 
 <b>1ro : </b>Pulsa en el Botón <b>[Manage APP]</b>
 
