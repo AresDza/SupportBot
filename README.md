@@ -1,10 +1,11 @@
 # SupportBot
 Este es un bot muy sencillo de hacer y facil de hacer o desplegar, aqui abajo tendran el indice :
 
-    - Despliegue a Heroku
-    - Funcionamiento
-    - Explicacion del Code
-    
+1. Despliegue a Heroku
+2. Funcionamiento
+3. Explicacion del Code
+
+
 ## Despliegue a Heroku :
 
 
