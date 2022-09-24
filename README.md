@@ -3,7 +3,6 @@ Este es un bot muy sencillo de hacer y facil de hacer o desplegar, aqui abajo te
 
 1. Despliegue a Heroku
 2. Funcionamiento
-3. Explicacion del Code
 
 
 ## Despliegue a Heroku :
@@ -45,8 +44,6 @@ El funcionamiento de este ChatBot es simple pero eficiente, al iniciarce, se cre
 
 *Mensajes Reenviados de los Users : Mejor opcion para este caso, ya que ayuda al bot a obtener el ID del usuario que ha enviado la solicitud para poder enviarle sus respuestas y tambien favorece a la hora de contactar de manera privada al usuario.
 
-
-## Explicacion del Code :
 
 
 
